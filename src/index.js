@@ -7,7 +7,7 @@ import ReduxPromise from 'redux-promise';
 
 import reducers from './reducers';
 import App from './App';
-import DisplayDevelopers from './containers/DisplayDevelopers';
+
 
 const createStoreWithMiddleware = applyMiddleware(ReduxPromise)(createStore);
 
@@ -18,7 +18,7 @@ ReactDOM.render(
     <BrowserRouter>
       <div>
         <Switch>
-          <Route path='/developers' component={DisplayDevelopers} />
+          {/* <Route path='/developers' component={DisplayDevelopers} /> */}
           <Route path='/' component={App} />
         </Switch>
       </div>

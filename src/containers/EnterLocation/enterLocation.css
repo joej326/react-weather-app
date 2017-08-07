@@ -1,0 +1,8 @@
+.enter-location-main{
+  border: solid black 0.2vw;
+}
+.enter-location-main input{
+  width: 10vw;
+  height: 2vw;
+  border: solid black 0.2vw;
+}

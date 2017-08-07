@@ -1,8 +1,8 @@
 import { combineReducers } from 'redux';
-import GetDevelopers from './get_developers_reducer';
+import GetWeather from './get_weather_reducer';
 
 const rootReducer = combineReducers({
-  developers: GetDevelopers
+  weather: GetWeather
 });
 
 export default rootReducer;
