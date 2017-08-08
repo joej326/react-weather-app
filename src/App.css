@@ -1,6 +1,7 @@
 html{
   height: 100%;
-  background-image: url('http://i.imgur.com/nXQij5C.jpg');
+  background-image: url('http://i.imgur.com/hpgEMo3.jpg');
+  background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;

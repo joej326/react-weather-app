@@ -1,6 +1,7 @@
 
 .enter-location-main{
-  background: rgba(23, 82, 182, 0.3);
+  box-shadow: 0.5vw 0.5vw 0.3vw black;
+  background: rgba(23, 82, 182, 0.5);
   border: solid black 0.2vw;
   padding: 1vw 5vw 2vw 5vw;
 }
