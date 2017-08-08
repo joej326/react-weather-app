@@ -1,8 +1,10 @@
+
 .enter-location-main{
   border: solid black 0.2vw;
+  padding: 1vw 2vw 2vw 2vw;
 }
 .enter-location-main input{
-  width: 10vw;
+  width: 20vw;
   height: 2vw;
   border: solid black 0.2vw;
 }
