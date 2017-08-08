@@ -1,10 +1,17 @@
 
 .enter-location-main{
+  background: rgba(23, 82, 182, 0.3);
   border: solid black 0.2vw;
-  padding: 1vw 2vw 2vw 2vw;
+  padding: 1vw 5vw 2vw 5vw;
 }
 .enter-location-main input{
   width: 20vw;
   height: 2vw;
   border: solid black 0.2vw;
+}
+.input-and-button{
+  padding: 2vw 0vw 1vw 0vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
